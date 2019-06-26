@@ -81,4 +81,4 @@ If you need more syntax highlighting, you can use
 
 ## License
 
-MIT © [Diki Ananta](https://dikiaap.id)
+MIT © [Diki Ananta](https://vulnerabilitylabs.github.io)
